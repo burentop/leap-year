@@ -10,13 +10,18 @@ _This is a very simple website used to show if a year input is a leap year._
 
 # Specs
 
-* _a year that is not a leap year.
+* _A year that is not a leap year._
   * _Input Example: 1993_
   * _Output Example: false_
-* _a year that is divisible by 4.
-  *
-* _a year that is divisible by 100: input- 1900  output- false_
-* _a year that is divisible by 400: input- 2000  output- true_
+* _A year that is divisible by 4._
+  * _Input Example: 2004_
+  * _Output Example: true_
+* _A year that is divisible by 100._
+  * _Input Example: 1900_
+  * _Output Example: false_
+* _A year that is divisible by 400._
+  * _Input Example: 2000_
+  * _Output Example: true_
 
 ## Setup/Installation Requirements
 
