@@ -10,14 +10,14 @@ _This is a very simple website used to show if a year input is a leap year._
 
 # Specs
 
-* _a year that is not a leap year:  input- 1993  output- false
-* _a year that is divisible by 4:   input- 2004  output- true
-* _a year that is divisible by 100: input- 1900  output- false
-* _a year that is divisible by 400: input- 2000  output- true
+* _a year that is not a leap year:  input- 1993  output- false_
+* _a year that is divisible by 4:   input- 2004  output- true_
+* _a year that is divisible by 100: input- 1900  output- false_
+* _a year that is divisible by 400: input- 2000  output- true_
 
 ## Setup/Installation Requirements
 
-* _There is really no setup required.
+* _There is really no setup required._
 
 ## Known Bugs
 
